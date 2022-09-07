@@ -30,7 +30,7 @@ int open_serial(){
     tty.c_cflag &= ~CSTOPB;
     tty.c_cflag &= ~CSIZE;
     tty.c_cflag |= CS8;
-    tty.c_cflag &= ~CRTSCTS;
+    //tty.c_cflag &= ~CRTSCTS;
     tty.c_cflag |= CREAD | CLOCAL;
 
     tty.c_iflag &= ~(IXON | IXOFF | IXANY);
