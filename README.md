@@ -1,7 +1,10 @@
 # Module 4G For Jetson
-## How to build
-**Build project with Makefile. Follow these step**
+## Build
+_Build project with Makefile_
 ```
 $ make
+```
+## Run
+```
 $ ./build/uart_test
 ```
