@@ -3,8 +3,8 @@
 This project aim to communicate with EM7565 (Module Sim 4G) through Serial using AT command.
 - [EM7565](https://source.sierrawireless.com/devices/em-series/em7565/)
 ## Install driver for EM7565
-- __Step 1__: Download driver with this [Link](https://source.sierrawireless.com/resources/airprime/software/mbpl/mbpl-software-latest/#sthash.A75t1bEi.dpbs) 
-![source](docs/usb_source.png)\
+- __Step 1__: Download driver with this [Link](https://source.sierrawireless.com/resources/airprime/software/mbpl/mbpl-software-latest/#sthash.A75t1bEi.dpbs) \
+![source](docs/usb_source.png) 
 - __Step 2__: Follow these step to build driver source
 ```
 $ make
