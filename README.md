@@ -25,4 +25,10 @@ $ make
 ```
 $ ./build/uart_test
 ```
-Run AT command
+Press AT command \
+Example:
+| AT Command      | Respond |
+| -----------     | ----------- |
+| at              | OK       |
+    
+
